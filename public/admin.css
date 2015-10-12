@@ -1,0 +1,46 @@
+﻿/* 样式初始化*{ margin:0; padding:0; } */
+img{ border:0; }
+a{ text-decoration:none; color:#333333; }
+ul li{ list-style:none; }
+
+
+/* 预定义样式 */
+.w{ width:1200px; margin:0 auto;  }
+.w1{ width:980px; margin:0 auto;  }
+.w2{ width:700px; margin:0 auto;  }
+.fl{ float:left; }
+.fr{ float:right; }
+.clear{ clear:both; }
+.mt10{ margin-top:10px; }
+.mt20{ margin-top:20px; }
+.border{ border:1px solid red;  }
+
+/*比较好看的表格*/
+
+.table table{width:932px;border-collapse:collapse;text-align:center;}
+.table .title{background:lightgray;line-height:40px;padding-right:10px;}
+.table .title .search{width:100px;}
+.table td,.table th{border:1px solid lightgray;padding:8px 5px;}
+.btn{margin-left:5px;border-radius:3px;padding:10px 10px;}
+table .btn:hover{background:#d20069;color:#fff;}
+.btn-red{background:pink;}
+.btn-green{background:lightgreen}
+.btn-blue{background:lightblue;}
+
+/*头部*/
+#top{text-align:left;}
+#top .btn{margin-top:20px;}
+#top .btn a{display:inline-block;padding:10px;background:white;border-radius:3px;}
+.button{background:url(../upload/images/20141107150017.png);border:none;width:74px;height:30px;cursor:pointer;position:relative;top:6px;left:-10px;}
+.button:hover{background:url(../upload/images/20141107150017.png) 0px 30px;}
+#admin_main{border:5px solid lightgray;border-radius:10px;text-align:center;width:932px;margin-top:10px;}
+#admin_main .main .table .title{font-size:20px;}
+.pagesbutton{padding-bottom:20px;}
+.pagesbutton a{padding:10px 15px;border-radius:5px;margin-left:10px;background-color:lightblue;border:1px solid #dedede;text-align:center;}
+
+/* 侧边栏 */
+
+#menu dl{border:solid pink 5px;border-radius:5px;font:16px/1.5 "Microsoft yahei";margin-left:20px;padding:20px;background-color:pink}
+#menu dl dt{font-weight:bold;}
+#menu dl dd{width:193px;margin-left:-20px;text-align:center;}
+#menu dl dd a:hover{border-radius:10px;background-color:#ddd;;padding:1px 50px;}

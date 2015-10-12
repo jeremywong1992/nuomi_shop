@@ -1,0 +1,32 @@
+//预定义样式
+*{color:#666;}
+.w980{width:980px;margin:0 auto;}
+.border{border:1px red solid;}
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
+.mt10{margin-top:10px;}
+.mt20{ margin-top:20px;}
+.mt35{ margin-top:35px;}
+body{font:16px/1.5 黑体;color:#8D8F82;}
+img{border:0px;}
+ul,ol{list-style:none;}
+a{ text-decoration:none; color:#333333; }
+.submit{border-radius:3px;border:none;background-color:#FD528B;color:#fff;font-size:18px;font-family:黑体;}
+.submit:hover{background-color:#ff78a5;}
+.w-footer-mini{border-top:5px solid #DBDBDB;padding:40px 0 20px}.w-footer-mini .wrap{width:980px;margin:0 auto}.w-footer-mini .links{color:#666;text-align:left}.w-footer-mini .links a,.w-footer-mini .links span{display:inline-block}.w-footer-mini .links .link{color:#666}.w-footer-mini .links .tel{color:#FD678C;margin:0}.w-footer-mini .links span{margin:0 12px;color:#ccc}.w-footer-mini .site-info{line-height:40px;font-family:SimSun;color:#999;text-align:left}.w-footer-mini .site-info .link{color:#999}.w-footer-mini .site-info .copyright{font-family:"Microsoft Yahei"}
+
+/* 公共样式 */
+.w{width:420px;}
+.c{background:white;}
+/*主体开始*/
+
+.menu{width:70px;height:32px;margin:9px 0 18px 20px;line-height:32px;}
+.input{width:200px;height:32px;margin:9px 30px 18px 0;line-height:32px}
+.x1{word-spacing:65px}
+.x2{word-spacing:50px}
+.time{width:85px;height:32px;}
+.add{width:200px;height:28px;margin-left:10px;}
+.sub{width:285px;height:45px;background-color:#2cabce;border:0;font:25px/1.5 黑体;color:#fff;cursor:pointer;margin-bottom:20px;margin-left:20px;}
+.sub:hover{background-color:#2cabff;border:0;font-size:25px;color:#e3c8de;}
+.foot{margin:25px auto;width:185px;}
